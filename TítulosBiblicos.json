@@ -1009,7 +1009,7 @@
     }
   },
   "Nuevo Testamento": {
-    "San Mateo": {
+    "Mateo": {
       "1": "La Genealogía y el Nacimiento de Jesús",
       "2": "La Visita de los Magos y la Huida a Egipto",
       "3": "El Bautismo de Jesús",
@@ -1039,7 +1039,7 @@
       "27": "La Crucifixión de Jesús",
       "28": "La Resurrección de Jesús"
     },
-    "San Marcos": {
+    "Marcos": {
       "1": "El Comienzo del Ministerio de Jesús",
       "2": "Jesús Sana a un Paralítico",
       "3": "Jesús y el Sábado",
@@ -1057,7 +1057,7 @@
       "15": "La Crucifixión de Jesús",
       "16": "La Resurrección de Jesús"
     },
-    "San Lucas": {
+    "Lucas": {
       "1": "El Anuncio del Nacimiento de Juan y Jesús",
       "2": "El Nacimiento de Jesús",
       "3": "El Bautismo y la Genealogía de Jesús",
@@ -1083,7 +1083,7 @@
       "23": "La Crucifixión de Jesús",
       "24": "La Resurrección y la Ascensión de Jesús"
     },
-    "San Juan": {
+    "Juan": {
       "1": "El Verbo se Hizo Carne",
       "2": "Las Bodas de Caná y la Purificación del Templo",
       "3": "Jesús y Nicodemo",
