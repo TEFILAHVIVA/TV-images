@@ -32,3 +32,9 @@ const corpus = [
     text: "Para dar formato al texto, se puede usar markdown. Por ejemplo, dos asteriscos como **esto** crean negrita, y un guion al inicio de una línea crea una lista."
   }
 ];
+
+
+// Hacer corpus disponible globalmente
+window.corpus = corpus;
+
+console.log('Corpus cargado con', corpus.length, 'documentos');
